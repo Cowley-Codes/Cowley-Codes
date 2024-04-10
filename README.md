@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cowley-Codes
-- 👀 I’m interested in CrossFit & adventures in my Camper.
+- 👀 I’m interested in CrossFit & adventures in my camper.
 - 🌱 I’m currently learning Pyhton & Apps with CodeFirstGirls
 - 💞️ I’m looking to collaborate on anything that will help develop my SQL skills.
 - 😄 Pronouns: She/her
