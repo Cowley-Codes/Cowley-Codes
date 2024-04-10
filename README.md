@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Pyhton & Apps with CodeFirstGirls
 - 💞️ I’m looking to collaborate on anything that will help develop my SQL skills.
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I can recite pi to 115 decimal places.
+- ⚡ Fun fact: I can recite pi to >100 decimal places.
 
 <!---
 Cowley-Codes/Cowley-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
