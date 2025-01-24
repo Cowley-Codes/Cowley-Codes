@@ -1,11 +1,11 @@
-# ♾️ Me 
+# Alannah Dowdall 
 <p align="center">
 Hi, I’m Alannah, your friendly neighbourhood maths fan. 
  Enthusiastic about most of life especially music, CrossFit & cuddling my husband. 
 </p>
 
 
-## FUN Facts ##
+## ♾️ About Me ##
 	
 - Born & raised in __Manchester__ I love being a part of this city. 
 - I am mad for guitar bands: Arctic Monkeys, Oasis, The Maccabees, Courteeners, Elbow, Nathaniel Rateliff & the Night Sweats, Caamp. I __strongly__ believe that Guy Garvey is a _genius_ & should be revered as one of the <ins>greatest songwriters of all time</ins>. 
