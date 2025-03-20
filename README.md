@@ -41,33 +41,3 @@ Well Dolly, I am **_doing my best!_**
 
 So far I have completed Kickstarter courses in SQL and Python. SQL is my <ins>favourite</ins> language because it feels like abstract organising which is very much my vibe. I enjoy working logically and doing maths with sets, so nesting subqueries, working out sequencing of clauses to retrieve the desired data or considering appropriate unions are all challenges that appeal to me.
 
-<details>
-
-<summary>
-	SQL
-</summary>
-
-I designed my SQL project on the CrossFit Open - a fitness challenge I take part in at my gym each year. Here is an example of code I wrote to allow the female athletes to view their overall ranking after completing all three workouts.
-
-```
-CREATE VIEW Open_F AS
-SELECT
-	f1.Ath_id,
-	f1.FName,
-	f1.SName,
-	f1.GName,
-	f1.City,
-	f1.Ranka1f,
-	f2.Ranka2f,
-	f3.Ranka3f,
-	DENSE_RANK() OVER (ORDER BY f1.Ranka1f+f2.Ranka2f+f3.Ranka3f) AS Open_Rank
-FROM
-FWOD1 f1
-LEFT JOIN
-FWOD2 f2
-ON f1.Ath_id=f2.Ath_id
-LEFT JOIN
-FWOD3 f3
-ON f2.Ath_id=f3.Ath_id;
-```
-</details>
