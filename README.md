@@ -47,7 +47,7 @@ Well Dolly, I am **_doing my best!_**
 So far I have completed kickstarter courses and the CFG Degree covering Python, APIs, SQL and some ML techniques. SQL is my <ins>favourite</ins> language because it feels like abstract organising which is very much my vibe. I enjoy working logically and doing maths with sets, so nesting subqueries, working out sequencing of clauses to retrieve the desired data or considering appropriate unions are all challenges that appeal to me.
 
 
-#### Projects from my Learning ####
+#### Projects from my learning: ####
 
 | File          | Details |
 | ------------- | ------------- |
