@@ -52,7 +52,6 @@ Well Dolly, I am **_doing my best!_**
 | Poetry_Library_API_SQL      | Use this Python run API to borrow and return books from the Poetry Library database in SQL |
 | Quieter_Destinations_Group_Project      | Use this Pandas analysis to find quieter alternative tourist destinations |
 | Age_of_First_Motherhood   | Use this ML project built on ONS data to understand & predict trends in age of first motherhood for women born in England and Wales |
-| README      | About me & my learning |
 
 
 
