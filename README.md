@@ -13,7 +13,7 @@ Hi, I’m Alannah, your friendly neighbourhood maths fan.
 -  __Georg Cantor__ is my _dreamboat mathematician_, because I love all things $\infty\$ and his diagonal argument is deliciously elegant.
 - I can recite $\pi$ to 115 decimal places but my true favourite number is __576__ because it doesn’t _feel_ like a square but it is.
 
-   ✏️ Challenge: grab a pencil & see if you can find the square root of 576 - [Answer](https://github.com/Cowley-Codes/CFG-Assignments#answer-for-the-square-root-of-576) at the end!
+   ✏️ Challenge: grab a pencil & see if you can find the square root of 576 - [Answer](https://github.com/Cowley-Codes#:~:text=❓,-Answer%20for%20the) at the end!
 
 
 
