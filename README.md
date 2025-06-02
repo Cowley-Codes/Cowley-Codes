@@ -1,75 +1,158 @@
-# Alannah Dowdall 
-<p align="center">
-Hi, I’m Alannah, your friendly neighbourhood maths fan. 
- Enthusiastic about most of life especially music, CrossFit & cuddling my husband. 
-</p>
+# Quieter Summer Horizons – Finding Peaceful Alternatives for Adventurous Solo Travellers :sunny: :airplane:
 
+Project Overview
 
-## ♾️ About Me ##
-	
-- Born & raised in __Manchester__ I love being a part of this city. 
-- I am mad for guitar bands: Arctic Monkeys, Oasis, The Maccabees, Courteeners, Elbow, Nathaniel Rateliff & the Night Sweats, Caamp. I __strongly__ believe that Guy Garvey is a _genius_ & should be revered as one of the <ins>greatest songwriters of all time</ins>. 
-- I ran my first (~~only?~~) marathon in 2024.
--  __Georg Cantor__ is my _dreamboat mathematician_, because I love all things $\infty\$ and his diagonal argument is deliciously elegant.
-- I can recite $\pi$ to 115 decimal places but my true favourite number is __576__ because it doesn’t _feel_ like a square but it is.
+This project was created as part of the Code First Girls Data Science course.
+Our goal was to recommend quieter, off-the-beaten-path travel destinations for solo travellers who are seeking warm, peaceful summer experiences — as an alternative to crowded tourist hotspots like Greece and Spain.
 
-   ✏️ Challenge: grab a pencil & see if you can find the square root of 576 - [Answer](https://github.com/Cowley-Codes#:~:text=❓,-Answer%20for%20the) at the end!
+We focused especially on solo female travellers, providing safe, warm, and welcoming destination recommendations supported by data. 
 
+## Contents of this Repository
 
+This repository includes:
 
-<details>
+- Stavros/ - all finalised Jupyter notebooks are in this folder
 
-<summary> 
-	  The CAREER SWITCH Story
-</summary>
+- Stavros/project_data - All CSV files used and created are in this folder
 
-<br/>
+- Stavros/images - All images used are in this folder 
 
-As a maths teacher I have had tremendous fun trying to show teenagers the beauty and power of mathematics. 
+- Solo Traveller Report – A mobile-friendly guide tailored specifically for adventurous solo female travellers.
 
-Having climbed the education ladder as far as I’d like, I felt a window of opportunity to become a student again; to stretch myself, rather than my classes, to see what I can achieve.
+- Project Report – A detailed explanation of our project goals, data sources, methodology, analysis, and findings.
 
-On the recommendation of a Data Scientist friend, I tried the CFG kickstarter in SQL and I was hooked. 
+Key files inside Stavros/:
 
-Just over a year later, here I am on the path to becoming a Data Engineer at a company where I will have a truly positive impact on society - I couldn’t be more thrilled. __Thank you CFG!__
+1. UNWTO Data Cleaning.ipynb – Cleaning of international tourism data.
 
-Our lord and saviour Dolly Parton teaches us...
-> Find out who you are and do it on purpose.
+2. Identifying Tourism Constraints.ipynb - Analysis of international tourism data
 
-Well Dolly, I am **_doing my best!_**
- 
-</details>
+4. Weather Data.ipynb – Processing and preparing weather data.
 
-</details>
+5. The Three Recommended Destinations.ipynb – Filtering top recommended destinations based on weather similarity and tourism volume.
 
-## 🧠 Learning to Code 
+6. Flight Data for Top Destinations.ipynb – Retrieving flight data using the Skyscanner API. 
 
-So far I have completed kickstarter courses and the CFG Degree covering Python, APIs, SQL and some ML techniques. SQL is my <ins>favourite</ins> language because it feels like abstract organising which is very much my vibe. I enjoy working logically and doing maths with sets, so nesting subqueries, working out sequencing of clauses to retrieve the desired data or considering appropriate unions are all challenges that appeal to me.
+full_sorted_tourism_with_recommendation.csv – Our final dataset of top destination recommendations.
 
+Other supporting CSV files and notebooks used during the project.
 
-#### Projects from my learning: ####
+The Solo Female Traveller report and Project report
 
-| File          | Details |
-| ------------- | ------------- |
-| Star Wars API Guess Who Game-Builder      | Build a Star Wars themed "Guess Who?" game using an API in Python |
-| Festival Planning SQL Database   | Stay on top of the planning for a large music festival using this database in SQL  |
-| Poetry Library API & SQL Database   | Use this Python run API to borrow and return books from the Poetry Library database in SQL |
-| README      | About me & my  learning |
+## How We Worked
 
+- Sourced tourism data from the UNWTO (United Nations World Tourism Organization) dataset.
 
+- Collected weather data for a wide range of countries using the OpenWeather API, focusing on summer conditions similar to Greece.
 
-<details>
-	
- <summary>
-❓Answer for the square root of 576
- </summary>
+- Integrated flight data using the Skyscanner API to assess accessibility and affordability.
 
-<br/>
+- Data cleaning, analysis, and final recommendations were completed using Python (Pandas, NumPy, requests, etc.) in Jupyter Notebooks.
 
-$576=24^2$, hence $\sqrt{576}=24$
+We followed an Agile working style with tasks divided across Trello and collaborative coding via GitHub branches.
 
-A neat way to discover this is by prime factorising $576$ into $576=2^{6} \times 3^{2}$ and sharing into two matching groups of $2^{3} \times 3^{1}$
+## Key Findings
 
-You can run my square and square root Python code to find more square numbers.
+We identified several alternative destinations that offer:
 
-</details>
+- Warm, pleasant summer weather
+
+- Lower tourism volumes compared to traditional hotspots
+
+- Good accessibility for travellers
+
+Our final recommendations prioritise safety, serenity, and solo travel confidence, especially for women travelling alone.
+
+## How to Use This Repository 
+
+1. Clone or download the repository to view all files.
+
+2. All files for our project are in the ‘Stavros’ folder. 
+
+3. Open the ordered Jupyter notebooks (.ipynb files) to explore our data processing and analysis step-by-step.
+
+The repository is structured as follows:
+
+- Stavros/ - all Jupyter notebooks and reports
+- Stavros/project_data/ - all CSV files (including datasets obtained and spreadsheets created during the project)
+- Stavros/images/ - all images used in reports
+  
+## Installations ##
+
+There are several installations necessary to run the project code. Please run the below code within your notebook to ensure libraries are installed.
+```
+!pip install pandas  # For handling dataframes
+!pip install numpy  # For mathematical purposes in our analysis and visualisations
+!pip install requests  # For making API calls
+!pip install the fuzz  # For fuzzy matching of place names
+!pip install matplotlib  # For plotting charts and graphs
+!pip install seaborn   # For more appealing visualisations
+!pip install pandas openpyxl # For handling excel files
+!pip install plotly # For interactive visualisation and works well with NumPy and Pandas
+```
+## Project Data & Downloads ##
+
+At several points in the project it is necessary to store data as xlsx or csv files. In order to ensure smooth running of the file paths involved for reading and writing these files, please ensure you have downloaded the provided folder 'project_data' in the same place where you have all the notebooks from the repository.
+
+Some of the data we use comes from API calls, but there are two files initially stored within the project_data folder:
+
+- UNWTO Tourism Statistics Database. Please ensure this has successfully downloaded in the folder as unwto-all-data-download_2022.xlsx
+  
+- Coordinate data for longitude and latitude of countries. Please ensure this has successfully downloaded in the folder as countries.csv
+
+The CSV files created during the project have also been saved in the project_data folder. In the Jupyter notebooks, the lines of code that wrote our results to the CSV file have been commented out, to ensure you can view the same results that we had obtained.
+
+## API Keys ##
+
+We have used SkyScanner and OpenWeather APIs to retrieve the rest of the data relevant to our project. Please follow the instructions below to obtain your own keys for these APIs and store them in the variables in the below code cells in order to run the API interactions.
+
+### SkyScanner ###
+
+1. Go to https://rapidapi.com and follow the sign up instructions (or log in if you have an account).
+2. Search for "Skyscanner API" in the search bar.
+3. Click on the Skyscanner API from the search results, the logo is a blue sunrise.
+4. Click the Subscribe button (choose the free plan).
+5. After subscribing, you will see your X-RapidAPI-Key and X-RapidAPI-Host e.g. skyscanner89.p.rapidapi.com
+6. Open the Flight Data for Top Destinations Jupyter notebook.
+7. Copy your API key and paste it inside the quotation marks for RAPIDAPI_KEY
+8. Copy your API key and paste it inside the quotation marks for RAPIDAPI_HOST
+
+### OpenWeather ###
+
+1. Go to https://openweathermap.org/api and click ‘subscribe’ under ‘One Call API 3.0’. (This is for a free 1000 calls a day)
+2. Fill out your details. It will ask for payment details - a further recommendation to avoid being charged follows
+3. Click ‘Pay and subscribe’
+4. Once set up, login. (You may need to verify your email before using your API key)
+5. To avoid being charged, go to ‘Billing Plans’ located at the top of the page.
+6. You should see ‘base plan’ highlighted in green. You can edit your calls per day to be no more than 1000 calls a day, so you will never be able to use more than your free amount.
+7. Click on ‘API keys’ at the top of the page, and this is where you can find your API key to insert into the appropriate notebook
+8. Open the Weather Data Jupyter notebook.
+9. Copy your API key and paste it inside the quotation marks for api_key
+
+## Troubleshooting ##
+
+API Key Issues: Ensure you have correctly inserted your API key in the respective places. If there are issues with the data retrieval, check the API documentation for possible changes.
+
+File Path Issues: If there are errors related to file paths (e.g., CSV or Excel files), double-check that the ‘project_data’ folder is located correctly.
+
+Dependencies: If any packages are not installed, run the !pip install commands in a Jupyter cell.
+
+Refer to the Solo Female Traveller Report for an easily accessible summary of our recommendations.
+
+All data sources are cited, and each notebook contains explanations and comments for easy navigation.
+
+## Acknowledgements
+
+UNWTO – Tourism statistics dataset
+
+Skyscanner API – Flight information
+
+OpenWeather API – Historical weather data
+
+Google for Developers - Coordinates dataset
+
+Code First Girls – For the project framework and support
+
+A special thank you to the members that gave countless hours to put this project together. Thank you Alannah, Claire, Divya, Ellice, Fi, Zarfishan and Brinel. 
+
+✨ Thank you for exploring our project! ✨

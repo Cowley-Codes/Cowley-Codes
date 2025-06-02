@@ -1,0 +1,199 @@
+,Country,Arrivals,Units,2018,2019,2020,2021,2022,Mean Total Arrivals,Recommendation,latitude,longitude,Avg Temp(°C),Avg Rainfall(mm)
+0,Albania,total arrivals,thousands,5927.0,6406.0,2658.0,5689.0,7543.8,5644.76,Go,41.153332,20.168331,28.0,1.8
+1,Algeria,total arrivals,thousands,2657.0,2371.0,591.0,125.0,1398.0,1428.4,Go,28.033886,1.659626,34.0,0.9
+2,American Samoa,total arrivals,thousands,51.8,58.6,0.9,,,37.1,No Go,-14.270972,-170.132217,0.0,0.0
+3,Andorra,total arrivals,thousands,8328.0,8235.0,5207.0,5422.0,8426.7,7123.74,Go,42.546245,1.601554,28.0,0.7
+4,Angola,total arrivals,thousands,218.0,218.0,64.0,64.0,130.0,138.8,No Go,-11.202692,17.873887,0.0,0.0
+5,Anguilla,total arrivals,thousands,87.0,166.0,41.1,28.7,95.8,83.72,No Go,18.220554,-63.068615,0.0,0.0
+6,Antigua And Barbuda,total arrivals,thousands,1064.0,1035.0,276.0,250.0,642.4,653.48,Go,17.060816,-61.796428,29.0,0.1
+7,Argentina,total arrivals,thousands,10394.0,11131.0,3096.0,460.0,7503.0,6516.8,Go,-38.416097,-63.616672,25.0,1.1
+8,Armenia,total arrivals,thousands,1652.0,1894.0,375.0,870.0,1666.0,1291.4,Go,40.069099,45.038189,24.0,0.9
+9,Aruba,total arrivals,thousands,1897.0,1951.0,623.0,943.0,1711.0,1425.0,Go,12.52111,-69.968338,25.0,0.8
+10,Australia,total arrivals,thousands,9246.0,9466.0,1828.0,246.0,3694.0,4896.0,Go,-25.274398,133.775136,24.0,0.7
+11,Austria,total arrivals,thousands,30816.0,31884.0,15091.0,12728.0,26215.0,23346.8,Go,47.516231,14.550072,23.0,0.8
+12,Azerbaijan,total arrivals,thousands,2850.0,3170.0,796.0,792.0,1602.0,1842.0,Go,40.143105,47.576927,24.0,0.7
+13,Bahamas,total arrivals,thousands,6622.0,7250.0,1794.5,2101.0,7000.7,4953.64,No Go,25.03428,-77.39628,0.0,0.0
+14,Bahrain,total arrivals,thousands,12045.0,11061.0,1909.0,3612.0,9949.0,7715.2,Go,25.930414,50.637772,26.0,0.6
+15,Bangladesh,total arrivals,thousands,267.0,323.0,182.0,135.0,,226.75,Go,23.684994,90.356331,26.0,1.4
+16,Barbados,total arrivals,thousands,1356.0,966.0,545.8,242.0,897.6,801.48,Go,13.193887,-59.543198,26.0,1.3
+17,Belarus,total arrivals,thousands,11502.0,11832.0,3598.0,3361.0,4920.0,7042.6,No Go,53.709807,27.953389,0.0,0.0
+18,Belgium,total arrivals,thousands,9119.0,9343.0,2584.0,3243.0,8220.0,6501.8,Go,50.503887,4.469936,26.0,1.2
+19,Belize,total arrivals,thousands,1697.0,1674.0,487.0,437.0,372.6,933.52,Go,17.189877,-88.49765,26.0,1.7
+20,Benin,total arrivals,thousands,322.0,337.0,354.0,,,337.6666666666667,Go,9.30769,2.315834,27.0,1.6
+21,Bermuda,total arrivals,thousands,766.0,805.0,51.4,86.4,548.5,451.46,Go,32.321384,-64.75737,26.0,1.5
+22,Bhutan,total arrivals,thousands,274.0,316.0,29.8,0.001,20.9,128.1402,No Go,27.514162,90.433601,0.0,0.0
+23,"Bolivia, Plurinational State Of",total arrivals,thousands,1142.0,1239.0,323.3,180.0,724.0,721.6600000000001,Go,-16.290154,-63.588653,32.0,3.4
+24,Bosnia And Herzegovina,total arrivals,thousands,1053.0,1198.0,197.0,502.0,915.0,773.0,Go,43.915886,17.679076,27.0,1.9
+25,Botswana,total arrivals,thousands,1830.0,1555.4,358.2,338.0,,1020.4,Go,-22.328474,24.684866,26.0,1.4
+26,Brazil,total arrivals,thousands,6621.0,6353.0,2146.0,746.0,3630.0,3899.2,Go,-14.235004,-51.92528,26.0,1.4
+27,British Virgin Islands,total arrivals,thousands,192.0,895.0,83.0,56.0,173.0,279.8,Go,18.420695,-64.639968,27.0,2.2
+28,Brunei Darussalam,total arrivals,thousands,4521.0,4449.0,1071.0,110.0,,2537.75,Go,4.535277,114.727669,28.0,2.3
+29,Bulgaria,total arrivals,thousands,12368.0,12552.0,4973.0,7188.0,10888.0,9593.8,Go,42.733883,25.48583,26.0,2.1
+30,Burkina Faso,total arrivals,thousands,144.0,143.0,67.0,106.0,116.0,115.2,No Go,12.238333,-1.561593,0.0,0.0
+31,Cabo Verde,total arrivals,thousands,710.0,758.0,180.0,135.0,785.0,513.6,Go,16.002082,-24.013197,27.0,1.7
+32,Cambodia,total arrivals,thousands,6201.0,6611.0,1306.0,196.4,2276.6,3318.2,Go,12.565679,104.990963,27.0,2.3
+33,Cameroon,total arrivals,thousands,997.0,1021.0,616.0,963.0,539.0,827.2,No Go,7.369722,12.354722,0.0,0.0
+34,Canada,total arrivals,thousands,31274.0,32430.0,5068.0,4282.1,17924.0,18195.620000000003,Go,56.130366,-106.346771,26.0,2.3
+35,Cayman Islands,total arrivals,thousands,2384.0,2334.0,660.0,17.3,1027.7,1284.6,No Go,19.513469,-80.566956,0.0,0.0
+36,Central African Republic,total arrivals,thousands,109.0,87.0,34.6,,,76.86666666666666,No Go,6.611111,20.939444,0.0,0.0
+37,Chad,total arrivals,thousands,77.0,79.0,11.0,40.0,,51.75,No Go,15.454166,18.732207,0.0,0.0
+38,Chile,total arrivals,thousands,6603.0,5431.0,1310.5,192.0,2269.0,3161.1,Go,-35.675147,-71.542969,26.0,2.5
+39,China,total arrivals,thousands,158606.0,162538.0,27467.0,26380.0,25250.0,80048.2,Go,35.86166,104.195397,25.0,2.5
+40,Colombia,total arrivals,thousands,4398.0,4531.0,1387.0,2146.0,4686.0,3429.6,Go,4.570868,-74.297333,25.0,2.4
+41,Comoros,total arrivals,thousands,35.9,45.1,7.0,28.8,,29.2,No Go,-11.875001,43.872219,0.0,0.0
+42,Congo,total arrivals,thousands,158.0,,,,,158.0,No Go,-0.228021,15.827659,0.0,0.0
+43,"Congo, Democratic Republic Of The",total arrivals,thousands,392.0,479.0,202.0,382.0,,363.75,Go,-4.038333,21.758664,28.0,1.9
+44,Cook Islands,total arrivals,thousands,169.0,172.0,25.2,26.3,113.6,101.22,No Go,-21.236736,-159.777671,0.0,0.0
+45,Costa Rica,total arrivals,thousands,3313.0,3378.3,1146.5,1375.8,2497.1,2342.1400000000003,Go,9.748917,-83.753428,25.0,2.4
+46,Cote D´Ivoire,total arrivals,thousands,1965.0,2070.0,668.0,576.0,2047.0,1465.2,Go,7.539989,-5.54708,28.0,2.8
+47,Croatia,total arrivals,thousands,57668.0,60021.0,21608.0,34123.0,50023.0,44688.6,Go,45.1,15.2,25.0,2.3
+48,Cuba,total arrivals,thousands,4712.0,4276.0,1086.0,356.4,1614.1,2408.9,Go,21.521757,-77.781167,25.0,3.6
+49,Curaçao,total arrivals,thousands,1210.0,1293.0,436.0,418.0,1034.2,878.24,Go,12.1695,-68.990021,28.0,2.4
+50,Cyprus,total arrivals,thousands,4024.0,4117.0,632.0,1937.0,,2677.5,Go,35.126413,33.429859,26.0,3.4
+51,Czech Republic (Czechia),total arrivals,thousands,36268.0,37202.0,10267.0,10014.0,,23437.75,Go,49.817492,15.472962,27.0,2.5
+52,Denmark,total arrivals,thousands,30801.0,32065.0,16031.0,18372.0,31530.0,25759.8,Go,56.26392,9.501785,25.0,3.5
+53,Djibouti,total arrivals,thousands,142.0,167.0,75.0,114.0,145.0,128.6,No Go,11.825138,42.590275,0.0,0.0
+54,Dominica,total arrivals,thousands,199.0,322.0,140.0,66.0,235.0,192.4,Go,15.414999,-61.370976,25.0,3.4
+55,Dominican Republic,total arrivals,thousands,7551.0,7550.0,2748.0,5327.0,8488.8,6332.96,No Go,18.735693,-70.162651,0.0,0.0
+56,Ecuador,total arrivals,thousands,2535.0,2108.0,507.0,669.0,1265.0,1416.8,Go,-1.831239,-78.183406,25.0,3.7
+57,Egypt,total arrivals,thousands,11346.0,13026.0,3677.0,7998.0,11724.0,9554.2,Go,26.820553,30.802498,25.0,3.6
+58,El Salvador,total arrivals,thousands,2536.0,2639.0,707.0,1436.0,2541.0,1971.8,Go,13.794185,-88.89653,26.0,3.5
+59,Estonia,total arrivals,thousands,6033.0,6103.0,1695.0,1310.0,3497.0,3727.6,Go,58.595272,25.013607,25.0,3.4
+60,Eswatini,total arrivals,thousands,1277.0,1226.0,345.3,210.7,502.5,712.3,Go,-26.522503,31.465866,26.0,2.3
+61,Ethiopia,total arrivals,thousands,849.0,812.0,271.0,518.0,897.0,669.4,Go,9.145,40.489673,25.0,3.4
+62,Fiji,total arrivals,thousands,1058.0,969.0,168.0,32.0,652.0,575.8,Go,-16.578193,179.414413,25.0,3.3
+63,Finland,total arrivals,thousands,3224.0,3290.0,896.0,807.0,2127.0,2068.8,Go,61.92411,25.748151,25.0,3.2
+64,France,total arrivals,thousands,211998.0,217877.0,117109.0,141297.0,,172070.25,Go,46.227638,2.213749,25.0,3.1
+65,French Polynesia,total arrivals,thousands,260.0,282.0,89.0,95.0,261.4,197.48,Go,-17.679742,-149.406843,25.0,3.1
+66,Gambia,total arrivals,thousands,552.0,620.0,246.0,332.0,570.0,464.0,Go,13.443182,-15.310139,25.0,3.0
+67,Georgia,total arrivals,thousands,7203.0,7726.0,1513.0,1721.0,4704.0,4573.4,Go,42.315407,43.356892,25.0,3.0
+68,Germany,total arrivals,thousands,38881.0,39563.0,12449.0,11688.0,28463.0,26208.8,Go,51.165691,10.451526,25.0,2.9
+69,Ghana,total arrivals,thousands,956.0,1130.0,355.0,624.0,915.0,796.0,Go,7.946527,-1.023194,25.0,2.9
+70,Greece,total arrivals,thousands,33072.0,34005.0,7406.0,15246.0,29876.0,23921.0,No Go,39.074208,21.824312,26.0,0.8
+71,Grenada,total arrivals,thousands,529.0,526.0,217.0,72.0,335.0,335.8,Go,12.262776,-61.604171,25.0,2.8
+72,Guadeloupe,total arrivals,thousands,1166.0,,,,,1166.0,Go,16.995971,-62.067641,25.0,2.8
+73,Guam,total arrivals,thousands,1549.0,1667.0,328.0,79.0,328.0,790.2,Go,13.444304,144.793731,26.0,2.7
+74,Guatemala,total arrivals,thousands,2406.0,2560.0,594.0,666.0,1844.7,1614.14,Go,15.783471,-90.230759,26.0,2.8
+75,Guinea-Bissau,total arrivals,thousands,55.0,52.4,,,,53.7,No Go,11.803749,-15.180413,0.0,0.0
+76,Guyana,total arrivals,thousands,287.0,315.0,86.5,158.3,288.0,226.96,Go,4.860416,-58.93018,26.0,2.9
+77,Haiti,total arrivals,thousands,1333.0,938.0,322.0,148.0,,685.25,No Go,18.971187,-72.285215,0.0,0.0
+78,Honduras,total arrivals,thousands,2323.0,2315.0,669.0,826.0,1911.0,1608.8,No Go,15.199999,-86.241905,0.0,0.0
+79,"Hong Kong, China",total arrivals,thousands,65148.0,55913.0,3569.0,91.4,604.6,25065.2,Go,22.396428,114.109497,26.0,3.8
+80,Hungary,total arrivals,thousands,57667.0,61397.0,31641.0,36688.0,46343.0,46747.2,Go,47.162494,19.503304,26.0,2.9
+81,Iceland,total arrivals,thousands,2488.0,2202.0,488.0,717.0,,1473.75,Go,64.963051,-19.020835,25.0,2.9
+82,India,total arrivals,thousands,17423.0,17914.0,6337.0,7010.0,14330.0,12602.8,Go,20.593684,78.96288,26.0,2.8
+83,Indonesia,total arrivals,thousands,15810.0,16107.0,4053.0,1558.0,5889.0,8683.4,Go,-0.789275,113.921327,26.0,2.9
+84,"Iran, Islamic Republic Of",total arrivals,thousands,7295.0,9107.0,1550.0,989.0,4108.0,4609.8,No Go,32.427908,53.688046,0.0,0.0
+85,Ireland,total arrivals,thousands,12266.0,12401.0,,,,12333.5,Go,53.41291,-8.24389,25.0,2.8
+86,Israel,total arrivals,thousands,4389.0,4905.0,887.0,402.0,2851.0,2686.8,No Go,31.046051,34.851612,0.0,0.0
+87,Italy,total arrivals,thousands,93228.6,95399.0,38419.0,40186.0,74317.0,68309.92,Go,41.87194,12.56738,26.0,2.8
+88,Jamaica,total arrivals,thousands,4319.0,4234.0,1329.7,1535.0,3330.7,2949.6800000000003,No Go,18.109581,-77.297508,0.0,0.0
+89,Japan,total arrivals,thousands,31192.0,31882.0,4115.8,246.0,3832.0,14253.56,Go,36.204824,138.252924,25.0,3.0
+90,Jordan,total arrivals,thousands,4922.0,5361.0,1240.0,2359.0,5049.1,3786.22,Go,30.585164,36.238414,25.0,2.9
+91,Kazakhstan,total arrivals,thousands,8789.0,8515.0,2035.0,1330.0,4729.0,5079.6,Go,48.019573,66.923684,25.0,2.9
+92,Kenya,total arrivals,thousands,2025.0,2049.0,568.0,870.0,1484.0,1399.2,Go,-0.023559,37.906193,26.0,2.8
+93,Kiribati,total arrivals,thousands,9.0,12.0,1.4,0.07,1.8,4.854,No Go,-3.370417,-168.734039,0.0,0.0
+94,"Korea, Republic Of",total arrivals,thousands,15347.0,17503.0,2519.0,967.0,3198.0,7906.8,Go,35.907757,127.766922,26.0,3.5
+95,Kuwait,total arrivals,thousands,8508.0,8565.0,2161.0,1606.0,,5210.0,Go,29.31166,47.481766,26.0,2.8
+96,Kyrgyzstan,total arrivals,thousands,6947.0,8508.0,2079.0,3169.0,6901.0,5520.8,Go,41.20438,74.766098,26.0,2.7
+97,Lao People´S Democratic Republic,total arrivals,thousands,4186.0,4791.0,886.4,,,3287.8,Go,19.85627,102.495496,26.0,3.9
+98,Latvia,total arrivals,thousands,7775.0,8342.0,3204.0,1937.0,,5314.5,Go,56.879635,24.603189,26.0,2.7
+99,Lebanon,total arrivals,thousands,1964.0,1936.0,414.0,890.0,1466.0,1334.0,No Go,33.854721,35.862285,0.0,0.0
+100,Lesotho,total arrivals,thousands,1173.0,1142.0,,279.0,,864.6666666666666,Go,-29.609988,28.233608,25.0,2.6
+101,Liechtenstein,total arrivals,thousands,85.3,98.1,58.4,70.8,100.8,82.67999999999999,No Go,47.166,9.555373,0.0,0.0
+102,Lithuania,total arrivals,thousands,6115.0,6150.0,2284.0,2096.0,4725.0,4274.0,Go,55.169438,23.881275,25.0,2.6
+103,Luxembourg,total arrivals,thousands,1018.0,1041.0,525.0,615.0,1013.0,842.4,Go,49.815273,6.129583,25.0,2.6
+104,"Macao, China",total arrivals,thousands,35804.0,39406.0,5897.0,7706.0,5700.3,18902.66,Go,22.198745,113.543873,27.0,4.7
+105,Madagascar,total arrivals,thousands,360.0,486.0,87.1,7.8,,235.225,Go,-18.766947,46.869107,25.0,2.5
+106,Malawi,total arrivals,thousands,871.0,978.0,199.0,432.0,,620.0,Go,-13.254308,34.301525,25.0,2.5
+107,Malaysia,total arrivals,thousands,25832.0,35046.0,6102.0,399.0,19016.0,17279.0,Go,4.210484,101.975766,25.0,2.5
+108,Maldives,total arrivals,thousands,1484.0,1703.0,555.0,1322.0,1675.0,1347.8,Go,3.202778,73.22068,25.0,2.5
+109,Mali,total arrivals,thousands,203.0,217.0,75.0,168.0,,165.75,No Go,17.570692,-3.996166,0.0,0.0
+110,Malta,total arrivals,thousands,3232.0,3519.0,718.0,1110.0,2776.2,2271.04,Go,35.937496,14.375416,25.0,2.5
+111,Marshall Islands,total arrivals,thousands,6.8,6.1,2.0,0.035,,3.73375,No Go,7.131474,171.184478,0.0,0.0
+112,Martinique,total arrivals,thousands,1002.0,919.0,523.6,312.0,661.0,683.52,Go,14.641528,-61.024174,25.0,2.4
+113,Mauritius,total arrivals,thousands,1431.0,1418.0,315.6,180.3,1003.1,869.6,Go,-20.348404,57.552152,25.0,2.4
+114,Mexico,total arrivals,thousands,96497.0,97406.0,51128.0,55301.0,65995.0,73265.4,No Go,23.634501,-102.552784,0.0,0.0
+115,"Micronesia, Federated States Of",total arrivals,thousands,19.2,18.0,,,,18.6,No Go,7.425554,150.550812,0.0,0.0
+116,"Moldova, Republic Of",total arrivals,thousands,160.0,174.0,29.0,69.0,162.0,118.8,No Go,47.411631,28.369885,0.0,0.0
+117,Monaco,total arrivals,thousands,516.0,545.0,160.1,218.4,381.5,364.2,Go,43.750298,7.412841,25.0,2.4
+118,Mongolia,total arrivals,thousands,598.0,637.0,66.9,39.2,301.0,328.42,Go,46.862496,103.846656,25.0,2.3
+119,Montenegro,total arrivals,thousands,2077.0,2510.0,351.0,1554.0,2036.0,1705.6,Go,42.708678,19.37439,25.0,2.3
+120,Montserrat,total arrivals,thousands,16.7,19.3,7.7,1.6,,11.325,No Go,16.742498,-62.187366,0.0,0.0
+121,Morocco,total arrivals,thousands,12489.0,13109.0,2802.0,3722.0,10968.0,8618.0,Go,31.791702,-7.09262,25.0,2.3
+122,Mozambique,total arrivals,thousands,2870.0,2033.0,959.0,549.0,879.0,1458.0,No Go,-18.665695,35.529562,0.0,0.0
+123,Myanmar,total arrivals,thousands,3551.0,4364.0,903.0,131.0,233.0,1836.4,No Go,21.913965,95.956223,0.0,0.0
+124,Namibia,total arrivals,thousands,1639.0,1651.0,187.1,261.3,528.0,853.28,Go,-22.95764,18.49041,25.0,2.3
+125,Nepal,total arrivals,thousands,1173.0,1197.0,230.0,151.0,614.8,673.1600000000001,Go,28.394857,84.124008,25.0,2.2
+126,Netherlands,total arrivals,thousands,18780.0,20129.0,7265.0,6248.0,16063.0,13697.0,Go,52.132633,5.291266,25.0,2.2
+127,New Caledonia,total arrivals,thousands,576.0,474.0,79.0,12.4,139.0,256.08000000000004,Go,-20.904305,165.618042,25.0,2.2
+128,New Zealand,total arrivals,thousands,3858.0,3888.0,996.0,207.0,1434.0,2076.6,Go,-40.900557,174.885971,25.0,2.2
+129,Nicaragua,total arrivals,thousands,1412.0,1455.0,474.0,312.4,932.7,917.22,Go,12.865416,-85.207229,25.0,2.2
+130,Niger,total arrivals,thousands,157.0,192.0,85.0,,,144.66666666666666,No Go,17.607789,8.081666,0.0,0.0
+131,Nigeria,total arrivals,thousands,5254.0,5361.0,1209.0,1246.0,1271.0,2868.2,No Go,9.081999,8.675277,0.0,0.0
+132,Niue,total arrivals,thousands,10.5,10.2,1.3,0.2,,5.55,No Go,-19.054445,-169.867233,0.0,0.0
+133,North Macedonia,total arrivals,thousands,707.0,758.0,118.0,294.0,537.0,482.8,Go,41.608635,21.745275,26.0,4.7
+134,Northern Mariana Islands,total arrivals,thousands,518.0,487.0,89.0,12.7,96.6,240.66,Go,17.33083,145.38469,25.0,2.2
+135,Norway,total arrivals,thousands,5688.0,5879.0,1397.0,1435.0,4979.4,3875.68,No Go,60.472024,8.468946,0.0,0.0
+136,Oman,total arrivals,thousands,3242.0,3506.0,869.0,652.0,2920.0,2237.8,Go,21.512583,55.923255,25.0,2.1
+137,Palau,total arrivals,thousands,106.0,94.0,18.4,,,72.8,No Go,7.51498,134.58252,0.0,0.0
+138,Panama,total arrivals,thousands,2487.0,2494.0,647.0,804.0,1946.0,1675.6,Go,8.537981,-80.782127,25.0,2.2
+139,Papua New Guinea,total arrivals,thousands,195.0,211.0,39.0,17.0,69.4,106.28,No Go,-6.314993,143.95555,0.0,0.0
+140,Paraguay,total arrivals,thousands,4183.0,4368.0,1077.0,571.0,1548.0,2349.4,Go,-23.442503,-58.443832,25.0,2.3
+141,Peru,total arrivals,thousands,5384.0,5275.0,1119.0,444.0,2278.5,2900.1,Go,-9.189967,-75.015152,25.0,2.3
+142,Philippines,total arrivals,thousands,7396.0,8423.0,1508.0,164.0,2654.0,4029.0,Go,12.879721,121.774017,25.0,2.3
+143,Poland,total arrivals,thousands,85946.0,88515.0,51076.0,51026.0,71814.0,69675.4,Go,51.919438,19.145136,25.0,2.3
+144,Portugal,total arrivals,thousands,16186.0,17283.0,4208.0,6345.0,16308.0,12066.0,Go,39.399872,-8.224454,25.0,2.3
+145,Puerto Rico,total arrivals,thousands,4260.0,4931.0,3882.0,2754.7,3637.5,3893.04,No Go,18.220833,-66.590149,0.0,0.0
+146,Qatar,total arrivals,thousands,1819.0,2136.5,582.0,611.0,2560.0,1541.7,Go,25.354826,51.183884,26.0,2.3
+147,Reunion,total arrivals,thousands,574.0,601.0,255.1,251.0,495.0,435.22,Go,-21.115141,55.536384,26.0,4.5
+148,Romania,total arrivals,thousands,11720.0,12815.0,5023.0,6789.0,12697.0,9808.8,Go,45.943161,24.96676,26.0,2.2
+149,Russian Federation,total arrivals,thousands,24551.0,24419.0,6359.0,,,18443.0,No Go,61.52401,105.318756,0.0,0.0
+150,Rwanda,total arrivals,thousands,1711.0,1634.0,497.0,511.0,,1088.25,Go,-1.940278,29.873888,25.0,2.2
+151,Saint Kitts And Nevis,total arrivals,thousands,1278.0,1107.0,301.4,122.6,589.1,679.62,Go,17.357822,-62.782998,26.0,4.2
+152,Saint Lucia,total arrivals,thousands,1165.0,1220.0,432.5,297.0,714.0,765.7,Go,13.909444,-60.978893,26.0,2.2
+153,Saint Vincent And The Grenadines,total arrivals,thousands,356.0,399.0,155.0,56.7,210.0,235.34,Go,12.984305,-61.287228,26.0,4.0
+154,Samoa,total arrivals,thousands,172.0,181.0,23.9,2.6,50.6,86.02000000000001,No Go,-13.759029,-172.104629,0.0,0.0
+155,San Marino,total arrivals,thousands,1874.0,1904.0,1015.0,1354.0,,1536.75,Go,43.94236,12.457777,25.0,2.2
+156,Sao Tome And Principe,total arrivals,thousands,33.4,34.9,10.7,15.1,,23.525,No Go,0.18636,6.613081,0.0,0.0
+157,Saudi Arabia,total arrivals,thousands,17570.0,20292.0,4882.0,3869.0,18256.0,12973.8,Go,23.885942,45.079162,26.0,2.2
+158,Serbia,total arrivals,thousands,1711.0,1847.0,446.0,871.0,1773.0,1329.6,Go,44.016521,21.005859,26.0,2.2
+159,Seychelles,total arrivals,thousands,405.0,428.0,124.5,183.0,339.0,295.9,Go,-4.679574,55.491977,26.0,2.2
+160,Sierra Leone,total arrivals,thousands,66.0,71.0,26.0,44.0,,51.75,No Go,8.460555,-11.779889,0.0,0.0
+161,Singapore,total arrivals,thousands,18508.0,19116.0,2742.0,330.0,6306.0,9400.4,Go,1.352083,103.819836,26.0,2.2
+162,Sint Maarten (Dutch Part),total arrivals,thousands,1775.0,1952.0,542.0,482.0,1217.0,1193.6,Go,18.0528,-63.0425,27.0,3.8
+163,Slovakia,total arrivals,thousands,15299.0,16086.0,,,,15692.5,Go,48.669026,19.699024,26.0,2.2
+164,Slovenia,total arrivals,thousands,4425.0,4702.0,1216.0,1832.0,3936.0,3222.2,Go,46.151241,14.995463,26.0,2.2
+165,Solomon Islands,total arrivals,thousands,27.9,28.9,4.4,0.7,,15.475,No Go,-9.64571,160.156194,0.0,0.0
+166,South Africa,total arrivals,thousands,15004.0,14797.0,3886.6,2664.0,7342.0,8738.72,Go,-30.559482,22.937506,25.0,2.2
+167,Spain,total arrivals,thousands,124456.0,126170.0,36410.0,51631.0,104968.0,88727.0,No Go,40.463667,-3.74922,25.0,0.4
+168,Sri Lanka,total arrivals,thousands,2521.0,2027.0,540.0,195.0,758.8,1208.36,Go,7.873054,80.771797,26.0,2.2
+169,State Of Palestine,total arrivals,thousands,3429.0,4232.0,1000.0,,,2887.0,No Go,31.952162,35.233154,0.0,0.0
+170,Sudan,total arrivals,thousands,836.0,,,,,836.0,No Go,12.862807,30.217636,0.0,0.0
+171,Sweden,total arrivals,thousands,7440.0,7616.0,1957.0,2990.0,6629.0,5326.4,Go,60.128161,18.643501,25.0,2.2
+172,Switzerland,total arrivals,thousands,11715.0,11818.0,3690.0,4390.0,9159.5,8154.5,Go,46.818188,8.227512,25.0,2.2
+173,Syrian Arab Republic,total arrivals,thousands,1802.0,2424.0,479.0,661.0,,1341.5,No Go,34.802075,38.996815,0.0,0.0
+174,Taiwan Province Of China,total arrivals,thousands,11067.0,11864.0,1378.0,140.0,896.0,5069.0,Go,23.69781,120.960515,27.0,4.7
+175,Tajikistan,total arrivals,thousands,1035.0,1257.0,351.0,296.0,,734.75,Go,38.861034,71.276093,25.0,2.2
+176,"Tanzania, United Republic Of",total arrivals,thousands,1506.0,1527.0,621.0,1027.0,1455.0,1227.2,Go,-6.369028,34.888822,26.0,4.4
+177,Thailand,total arrivals,thousands,38178.0,39916.0,6725.0,511.0,,21332.5,Go,15.870032,100.992541,25.0,2.2
+178,Timor-Leste,total arrivals,thousands,74.6,80.8,17.9,5.5,,44.7,No Go,-8.874217,125.727539,0.0,0.0
+179,Togo,total arrivals,thousands,573.0,876.0,482.0,,,643.6666666666666,Go,8.619543,0.824782,25.0,2.2
+180,Tonga,total arrivals,thousands,77.3,94.0,11.5,0.2,22.3,41.06,No Go,-21.178986,-175.198242,0.0,0.0
+181,Trinidad And Tobago,total arrivals,thousands,507.8,481.5,141.1,41.1,253.3,284.9599999999999,Go,10.691803,-61.222503,27.0,4.2
+182,Tunisia,total arrivals,thousands,8299.0,9429.0,2012.0,2475.0,6441.0,5731.2,Go,33.886917,9.537499,25.0,2.2
+183,Türkiye,total arrivals,thousands,46113.0,51747.0,15971.0,30039.0,51388.0,39051.6,Go,38.963745,35.243322,26.0,4.1
+184,Turks And Caicos Islands,total arrivals,thousands,1463.0,1599.0,370.4,432.0,,966.1,Go,21.694025,-71.797928,27.0,3.9
+185,Tuvalu,total arrivals,thousands,3.1,3.7,0.6,0.04,0.244,1.5368,No Go,-7.109535,177.64933,0.0,0.0
+186,Uganda,total arrivals,thousands,1506.0,1543.0,473.0,513.0,815.0,970.0,Go,1.373333,32.290275,25.0,2.2
+187,Ukraine,total arrivals,thousands,14342.0,13710.0,3382.0,4272.0,2307.0,7602.6,No Go,48.379433,31.16558,0.0,0.0
+188,United Arab Emirates,total arrivals,thousands,23092.0,25282.0,8084.0,12784.0,,17310.5,Go,23.424076,53.847818,26.0,2.2
+189,United Kingdom,total arrivals,thousands,40283.0,40857.0,11101.0,6384.0,31244.0,25973.8,Go,55.378051,-3.435973,25.0,2.2
+190,United States Of America,total arrivals,thousands,169324.918,165478.0,44792.0,66594.0,50870.0,99411.7836,Go,37.09024,-95.712891,27.0,4.1
+191,United States Virgin Islands,total arrivals,thousands,1922.0,2074.0,862.0,1072.4,,1482.6,No Go,18.335765,-64.896335,0.0,0.0
+192,Uruguay,total arrivals,thousands,3954.0,3480.0,,234.0,,2556.0,Go,-32.522779,-55.765835,25.0,2.1
+193,Uzbekistan,total arrivals,thousands,5346.0,6749.0,1504.0,1881.0,5233.0,4142.6,Go,41.377491,64.585262,25.0,2.1
+194,Vanuatu,total arrivals,thousands,350.2,256.0,82.4,,65.0,188.4,No Go,-15.376706,166.959158,0.0,0.0
+195,Viet Nam,total arrivals,thousands,15498.0,18009.0,3837.0,157.0,3661.0,8232.4,Go,14.058324,108.277199,27.0,4.2
+196,Zambia,total arrivals,thousands,1072.0,1266.0,502.0,554.0,,848.5,Go,-13.133897,27.849332,25.0,2.1
+197,Zimbabwe,total arrivals,thousands,2580.0,2294.0,639.0,381.0,1044.0,1387.6,Go,-19.015438,29.154857,25.0,2.1
