@@ -1,0 +1,45 @@
+ INSTRUCTIONS
+1. Secretly choose your character and mark with a star on your board. Your opponent will do the same.
+2. Take it in turns asking yes/no questions to one another.
+3. Use a process of elimination to narrow down who their character might be.
+4. The first player to correctly identify the other's character is the winner! 
+
+╒════════════════════╤══════════════╤═════════════╤══════════════════╤══════════════╤═════════════════════════╕
+│        Name        │  Birth Year  │  Homeworld  │   Skin Colour    │  Eye Colour  │ Appears in:             │
+╞════════════════════╪══════════════╪═════════════╪══════════════════╪══════════════╪═════════════════════════╡
+│ Beru Whitesun lars │    47BBY     │  Tatooine   │      Light       │     Blue     │ A New Hope              │
+│                    │              │             │                  │              │ Attack of the Clones    │
+│                    │              │             │                  │              │ Revenge of the Sith     │
+├────────────────────┼──────────────┼─────────────┼──────────────────┼──────────────┼─────────────────────────┤
+│  Anakin Skywalker  │   41.9BBY    │  Tatooine   │       Fair       │     Blue     │ The Phantom Menace      │
+│                    │              │             │                  │              │ Attack of the Clones    │
+│                    │              │             │                  │              │ Revenge of the Sith     │
+├────────────────────┼──────────────┼─────────────┼──────────────────┼──────────────┼─────────────────────────┤
+│   Wedge Antilles   │    21BBY     │  Corellia   │       Fair       │    Hazel     │ A New Hope              │
+│                    │              │             │                  │              │ The Empire Strikes Back │
+│                    │              │             │                  │              │ Return of the Jedi      │
+├────────────────────┼──────────────┼─────────────┼──────────────────┼──────────────┼─────────────────────────┤
+│     Boba Fett      │   31.5BBY    │   Kamino    │       Fair       │    Brown     │ The Empire Strikes Back │
+│                    │              │             │                  │              │ Return of the Jedi      │
+│                    │              │             │                  │              │ Attack of the Clones    │
+├────────────────────┼──────────────┼─────────────┼──────────────────┼──────────────┼─────────────────────────┤
+│       Ackbar       │    41BBY     │  Mon Cala   │   Brown Mottle   │    Orange    │ Return of the Jedi      │
+├────────────────────┼──────────────┼─────────────┼──────────────────┼──────────────┼─────────────────────────┤
+│     Mon Mothma     │    48BBY     │  Chandrila  │       Fair       │     Blue     │ Return of the Jedi      │
+├────────────────────┼──────────────┼─────────────┼──────────────────┼──────────────┼─────────────────────────┤
+│    Qui-Gon Jinn    │    92BBY     │   unknown   │       Fair       │     Blue     │ The Phantom Menace      │
+├────────────────────┼──────────────┼─────────────┼──────────────────┼──────────────┼─────────────────────────┤
+│    Roos Tarpals    │   unknown    │    Naboo    │       Grey       │    Orange    │ The Phantom Menace      │
+├────────────────────┼──────────────┼─────────────┼──────────────────┼──────────────┼─────────────────────────┤
+│    Ayla Secura     │    48BBY     │   Ryloth    │       Blue       │    Hazel     │ The Phantom Menace      │
+│                    │              │             │                  │              │ Attack of the Clones    │
+│                    │              │             │                  │              │ Revenge of the Sith     │
+├────────────────────┼──────────────┼─────────────┼──────────────────┼──────────────┼─────────────────────────┤
+│      Shaak Ti      │   unknown    │    Shili    │ Red, Blue, White │    Black     │ Attack of the Clones    │
+│                    │              │             │                  │              │ Revenge of the Sith     │
+├────────────────────┼──────────────┼─────────────┼──────────────────┼──────────────┼─────────────────────────┤
+│  Raymus Antilles   │   unknown    │  Alderaan   │      Light       │    Brown     │ A New Hope              │
+│                    │              │             │                  │              │ Revenge of the Sith     │
+├────────────────────┼──────────────┼─────────────┼──────────────────┼──────────────┼─────────────────────────┤
+│     Tion Medon     │   unknown    │   Utapau    │       Grey       │    Black     │ Revenge of the Sith     │
+╘════════════════════╧══════════════╧═════════════╧══════════════════╧══════════════╧═════════════════════════╛
