@@ -44,7 +44,7 @@ Well Dolly, I am **_doing my best!_**
 
 #### Projects from my learning: ####
 
-| File          | Details |
+| Directory          | Details |
 | ------------- | ------------- |
 | CrossFit_Open_SQL   | Use this SQL database to compare (fictional) athletes taking part in the CrossFit Open |
 | Star_Wars_API_GameBuilder      | Build a Star Wars themed "Guess Who?" game using an API in Python |
