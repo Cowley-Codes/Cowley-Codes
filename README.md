@@ -46,7 +46,7 @@ Well Dolly, I am **_doing my best!_**
 
 | File          | Details |
 | ------------- | ------------- |
-| CrossFit_Open   | Use this SQL database to compare (fictional) athletes taking part in the CrossFit Open |
+| CrossFit_Open_SQL   | Use this SQL database to compare (fictional) athletes taking part in the CrossFit Open |
 | Star_Wars_API_GameBuilder      | Build a Star Wars themed "Guess Who?" game using an API in Python |
 | Festival_Planning_SQL      | Stay on top of the planning for a large music festival using this database in SQL  |
 | Poetry_Library_API_SQL      | Use this Python run API to borrow and return books from the Poetry Library database in SQL |
