@@ -42,7 +42,7 @@ Well Dolly, I am **_doing my best!_**
  
 </details>
 
-#### This repository contains ####
+#### Projects from my learning: ####
 
 | File          | Details |
 | ------------- | ------------- |
